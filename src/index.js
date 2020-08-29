@@ -1,9 +1,10 @@
-import React from 'react';
+import React from 'react';// imports react library 
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import App from './App'; //imports the app variable from the ./App file
+import * as serviceWorker from './serviceWorker';//imports the service worker
 
+//every React component Must return either a block of HTML (JSX) OR null
 ReactDOM.render(
   <React.StrictMode>
     <App />
