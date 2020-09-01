@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.9464cf51.chunk.css",
-    "main.js": "/static/js/main.91572676.chunk.js",
-    "main.js.map": "/static/js/main.91572676.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4e7c19c6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4e7c19c6.js.map",
-    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
-    "static/js/2.2c2ea63a.chunk.js": "/static/js/2.2c2ea63a.chunk.js",
-    "static/js/2.2c2ea63a.chunk.js.map": "/static/js/2.2c2ea63a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5c2a0928c750d08d3a38074618c164ad.js": "/precache-manifest.5c2a0928c750d08d3a38074618c164ad.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
-    "static/css/main.9464cf51.chunk.css.map": "/static/css/main.9464cf51.chunk.css.map",
-    "static/js/2.2c2ea63a.chunk.js.LICENSE.txt": "/static/js/2.2c2ea63a.chunk.js.LICENSE.txt",
-    "static/media/Campfound.jpg": "/static/media/Campfound.152277c4.jpg",
-    "static/media/home.css": "/static/media/IMG_9025.df21b61c.JPG",
-    "static/media/We-Park .jpg": "/static/media/We-Park .8eb2ecd8.jpg",
-    "static/media/Worthy-Origin.jpg": "/static/media/Worthy-Origin.61897658.jpg"
+    "main.css": "/react-portfolio/static/css/main.734cbedc.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.6a7dfde6.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.6a7dfde6.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.bc59954b.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.bc59954b.js.map",
+    "static/css/2.11829350.chunk.css": "/react-portfolio/static/css/2.11829350.chunk.css",
+    "static/js/2.5dae4ec0.chunk.js": "/react-portfolio/static/js/2.5dae4ec0.chunk.js",
+    "static/js/2.5dae4ec0.chunk.js.map": "/react-portfolio/static/js/2.5dae4ec0.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.0794cb6dd05c43919e6f80af2d411484.js": "/react-portfolio/precache-manifest.0794cb6dd05c43919e6f80af2d411484.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/react-portfolio/static/css/2.11829350.chunk.css.map",
+    "static/css/main.734cbedc.chunk.css.map": "/react-portfolio/static/css/main.734cbedc.chunk.css.map",
+    "static/js/2.5dae4ec0.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.5dae4ec0.chunk.js.LICENSE.txt",
+    "static/media/Campfound.jpg": "/react-portfolio/static/media/Campfound.152277c4.jpg",
+    "static/media/Home.css": "/react-portfolio/static/media/IMG_9025.df21b61c.JPG",
+    "static/media/We-Park .jpg": "/react-portfolio/static/media/We-Park .8eb2ecd8.jpg",
+    "static/media/Worthy-Origin.jpg": "/react-portfolio/static/media/Worthy-Origin.61897658.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e7c19c6.js",
+    "static/js/runtime-main.bc59954b.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.2c2ea63a.chunk.js",
-    "static/css/main.9464cf51.chunk.css",
-    "static/js/main.91572676.chunk.js"
+    "static/js/2.5dae4ec0.chunk.js",
+    "static/css/main.734cbedc.chunk.css",
+    "static/js/main.6a7dfde6.chunk.js"
   ]
 }
