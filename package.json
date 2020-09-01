@@ -11,6 +11,8 @@
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.5.2",
     "font-awesome": "^4.7.0",
+    "gh": "^2.8.8",
+    "pages": "0.0.16",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-icons": "^3.11.0",
