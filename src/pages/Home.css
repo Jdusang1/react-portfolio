@@ -1,31 +1,4 @@
 
-
-h1 {
-    text-align: center;
-}
-
-#home-photo1{
-   
-    background-size: cover;
-    content: url("../assets/IMG_9025.JPG");
-    height: 500px;
-     
-}
-
-#home-photo2{
-    content: url("../assets/IMG_3927.JPG");
-    height: 500px;
-    background-size: cover;
-    
-}
-
-#home-photo3{
-    background-image: url("../assets/IMG_7286.JPG");
-    height: 500px;
-    background-size: cover;
-   
-}
-
 .imageContainer {
     float: left;
     width: 33.3%;
@@ -45,26 +18,34 @@ h2 {
     justify-self: right;
     
 }
-#icons {
-    color: black;
+
+#home-photo1{
+    background-image: url("../assets/IMG_6917.JPG") ;
+    height: 500px;
+    background-size: cover;
+   
+}
+
+#home-photo2{
+    background-image: url("../assets/IMG_9025.JPG");
+    height: 500px;
+    background-size: cover;
+    
+    
 
 }
 
-
-#imageLabel {
-    color: white;
-    writing-mode: vertical-rl;
-    line-height: 1;
-    position: absolute;
-    display: inline;
-    justify-content: left;
-    justify-self: right;
-    vertical-align: middle;
+#home-photo3{
+    background-image: url("../assets/IMG_3927.JPG");
+    height: 500px;
+    background-size: cover;
     
-
+    
 }
 
 .card-img{
     
     border: none;
+
 }
+
