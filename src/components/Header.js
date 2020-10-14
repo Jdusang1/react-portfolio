@@ -1,6 +1,6 @@
 import React from "react";
 import { FaGlobe } from 'react-icons/fa';
-// import "./Header.css";
+
 import styled from "styled-components";
 
 const HeadingWrapper = styled.div`
@@ -37,9 +37,11 @@ function Header() {
                 <div className="container-fluid">
                     <div className="main-navigationBar" id="navbar">
                         <a href={"/home"}> <FaGlobe style={{ color: "black" }} size={"32px"} /></a>
+                        {/* <span>Home</span> */}
 
-                        <span>Home</span>
+
                     </div>
+
                 </div>
 
             </div>
